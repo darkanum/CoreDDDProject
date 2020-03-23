@@ -1,0 +1,9 @@
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\bin\Debug\netcoreapp3.1\DDD.AplicationCore.deps.json
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\bin\Debug\netcoreapp3.1\DDD.AplicationCore.dll
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\bin\Debug\netcoreapp3.1\DDD.AplicationCore.pdb
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\obj\Debug\netcoreapp3.1\DDD.AplicationCore.AssemblyInfoInputs.cache
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\obj\Debug\netcoreapp3.1\DDD.AplicationCore.AssemblyInfo.cs
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\obj\Debug\netcoreapp3.1\DDD.AplicationCore.dll
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\obj\Debug\netcoreapp3.1\DDD.AplicationCore.pdb
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\obj\Debug\netcoreapp3.1\DDD.AplicationCore.csprojAssemblyReference.cache
+D:\Projetos\DDDProject\DDDProject\src\DDD.AplicationCore\obj\Debug\netcoreapp3.1\DDD.AplicationCore.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\bin\Debug\netcoreapp3.1\DDD.Infrastructure.deps.json
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\bin\Debug\netcoreapp3.1\DDD.Infrastructure.dll
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\bin\Debug\netcoreapp3.1\DDD.Infrastructure.pdb
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\bin\Debug\netcoreapp3.1\DDD.AplicationCore.dll
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\bin\Debug\netcoreapp3.1\DDD.AplicationCore.pdb
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.csprojAssemblyReference.cache
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.AssemblyInfo.cs
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.csproj.CopyComplete
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.dll
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.pdb
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\bin\Debug\netcoreapp3.1\DDD.Infrastructure.runtimeconfig.json
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\bin\Debug\netcoreapp3.1\DDD.Infrastructure.runtimeconfig.dev.json
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.genruntimeconfig.cache
+D:\Projetos\DDDProject\DDDProject\src\DDD.Infrastructure\obj\Debug\netcoreapp3.1\DDD.Infrastructure.csproj.CoreCompileInputs.cache
